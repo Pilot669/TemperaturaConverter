@@ -1,6 +1,7 @@
 package com.company;
 
 public class Temp {
+
     void convert() {
         TemperatureConverter temperatura = new TemperatureConverter();
         String result = temperatura.convertTemp(80, 'F');
