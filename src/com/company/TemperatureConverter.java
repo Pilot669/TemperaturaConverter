@@ -12,6 +12,6 @@ public class TemperatureConverter {
             temperature = temperature - 32 * 9 / 5;
             return temperature + "C";
         }
-        return "Error ";
+        return "Error";
     }
 }
